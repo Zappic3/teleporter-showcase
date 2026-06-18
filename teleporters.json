@@ -1,0 +1,18 @@
+{
+    "version": 1,
+    "tps": {
+        "anything": {
+            "name": "Name 1",
+            "frequency": 3000,
+            "pos": 1,
+            "bg_color": "#b5912d",
+            "fg_color": "#79ed26",
+            "border_bg_color": "b5aab1",
+            "border_fg_color": "#ba147e"
+        },
+        "tp2": {
+            "name": "Example",
+            "frequency": 3001
+        }
+    }
+}
